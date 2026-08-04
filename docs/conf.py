@@ -111,7 +111,6 @@ linkcheck_ignore = [
     r"^https://github.com/open-contracting/standard/(?:issues|pull)/\d+$",
     # Ignore irreproducible false positives.
     r"^https://www.fcny.org/fcny/$",
-    r"^http://www.eprocurementtoolkit.org/sites/default/files/2016-11/OCDS_Implemetation_Methodology_0.pdf#page=27$",
     # Ignore unwanted links created by linkify.
     r"^http://vnd\.",
     # Ignore expected redirects.
