@@ -136,7 +136,7 @@ The publisher adds the new release from the finance system to the releases list 
 
 ## Contract Amendment
 
-Unexpected complications causes delays in the construction work. Because of them the procuring entity and the supplier agree to a contract extension. This will cover the extra time and cost needed to complete the works. 
+Unexpected complications cause delays in the construction work. Because of them the procuring entity and the supplier agree to a contract extension. This will cover the extra time and cost needed to complete the works. 
 
 The publisher updates their procurement system with the new contract value and period. They issue a modification notice through the system. They also create a new OCDS with the 'contractAmendment' tag to represent the notice.
 
