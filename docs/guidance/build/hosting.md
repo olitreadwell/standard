@@ -121,7 +121,7 @@ To support pagination, the top-level `links` object in release packages and reco
 * `next`: A URL to the next sequential package
 * `prev`: A URL to the previous sequential package
 
-Ensure that the API's performance does not degrade on deep pages. For example, if the data source is a SQL database, use the [seek method](https://developer.wordpress.com/2014/02/14/an-efficient-alternative-to-paging-with-sql-offsets/) (also known as keyset pagination) rather than an [OFFSET clause](https://www.postgresql.org/docs/current/queries-limit.html).
+Ensure that the API's performance does not degrade on deep pages. For example, if the data source is a SQL database, use the [seek method](https://web.archive.org/web/20201109123054/https://developer.wordpress.com/2014/02/14/an-efficient-alternative-to-paging-with-sql-offsets/) (also known as keyset pagination) rather than an [OFFSET clause](https://www.postgresql.org/docs/current/queries-limit.html).
 
 When using the **seek method**, you can use _either_ of these query string parameters to construct the `next` and/or `prev` URLs:
 

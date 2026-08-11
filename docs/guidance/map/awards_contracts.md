@@ -103,7 +103,7 @@ If an appeal is made and upheld, then the award is cancelled. If no appeals are 
 
 In this example, the Ministry of Finance uses the e-procurement system to solicit bids for the development of a new website. A contract is awarded to 360nx Designs for 3,000,000 ZMK, through the e-procurement system.
 
-An unsuccessful bidder appeals the award decision and the appeal is upheld, resulting the award being cancelled.
+An unsuccessful bidder appeals the award decision and the appeal is upheld, resulting in the award being cancelled.
 
 If both the `award` and `contract` sections of OCDS had been populated when the award was made through the e-procurement system, this would have resulted in the presence of a contract in the OCDS data that had never existed in reality.
 

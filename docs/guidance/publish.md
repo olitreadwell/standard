@@ -41,7 +41,7 @@ A license statement sets out the permission that users have to access, use and r
 We encourage the use of either a public domain dedication/certification, or an attribution only license.
 
 * Public domain dedication – asserting no copyright, database rights, or contractual rights over the open contracting data. Examples include [Creative Commons' public domain tools](https://creativecommons.org/publicdomain/). These licenses are useful for publishers who manage their own works or have the necessary rights to apply a public domain license to another person's work. In addition, although attribution cannot be "enforced" under such licenses, we encourage you to actively acknowledge and give attribution to all sources, such as the data providers or any data aggregators. Public domain approaches are preferred for Open Contracting Datasets.
-* Attribution-only open licenses – licenses that allow for use and reuse, with the only restriction being that attribution (credit) be given. A examples includes the [Creative Commons Attribution licenses 4.0](https://creativecommons.org/licenses/by/4.0/)
+* Attribution-only open licenses – licenses that allow for use and reuse, with the only restriction being that attribution (credit) be given. An example includes the [Creative Commons Attribution licenses 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 When using custom licenses, publishers are encouraged to check that they are [compliant with the Open Definition](https://opendefinition.org/licenses/).
 

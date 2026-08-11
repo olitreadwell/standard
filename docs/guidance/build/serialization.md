@@ -16,7 +16,7 @@ OCDS data needs to follow the I-JSON (Internet JSON) specification in [RFC7493](
 
 Most programming languages provide tools for output data as JSON. 
 
-[A range of tools](http://json-schema.org/implementations.html) are available for working with [JSON-Schema](http://json-schema.org/), including validation and form generation tools. 
+[A range of tools](https://json-schema.org/implementations) are available for working with [JSON-Schema](http://json-schema.org/), including validation and form generation tools. 
 
 ### Consuming JSON
 

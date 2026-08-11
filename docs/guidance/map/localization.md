@@ -77,9 +77,9 @@ The OCDS standard development team maintains *supported* translations according 
 
 If the standard is not yet available in your language, you can propose a new translation of the schema and documentation, or collaborate on an existing community translation.
 
-Translations are managed using [Transifex](https://www.transifex.com/open-contracting-partnership-1/open-contracting-standard-1-1/) which can generate translated versions of the schema, documentation and other resources.
+Translations are managed using Crowdin, which can generate translated versions of the schema, documentation and other resources.
 
-Contact the [Data Support Team](../../support/index) to get access to Transifex or to propose a new translation.
+Contact the [Data Support Team](../../support/index) to get access to Crowdin or to propose a new translation.
 
 ## Document and share your work
 
